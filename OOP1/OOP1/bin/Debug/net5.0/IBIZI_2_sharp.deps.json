@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IBIZI_2_sharp/1.0.0": {
+        "runtime": {
+          "IBIZI_2_sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IBIZI_2_sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

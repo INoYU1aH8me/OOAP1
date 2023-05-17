@@ -1,0 +1,16 @@
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\bin\Debug\net5.0\IBIZI_2_sharp.exe
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\bin\Debug\net5.0\IBIZI_2_sharp.deps.json
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\bin\Debug\net5.0\IBIZI_2_sharp.runtimeconfig.json
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\bin\Debug\net5.0\IBIZI_2_sharp.runtimeconfig.dev.json
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\bin\Debug\net5.0\IBIZI_2_sharp.dll
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\bin\Debug\net5.0\ref\IBIZI_2_sharp.dll
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\bin\Debug\net5.0\IBIZI_2_sharp.pdb
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\obj\Debug\net5.0\IBIZI_2_sharp.csprojAssemblyReference.cache
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\obj\Debug\net5.0\IBIZI_2_sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\obj\Debug\net5.0\IBIZI_2_sharp.AssemblyInfoInputs.cache
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\obj\Debug\net5.0\IBIZI_2_sharp.AssemblyInfo.cs
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\obj\Debug\net5.0\IBIZI_2_sharp.csproj.CoreCompileInputs.cache
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\obj\Debug\net5.0\IBIZI_2_sharp.dll
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\obj\Debug\net5.0\ref\IBIZI_2_sharp.dll
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\obj\Debug\net5.0\IBIZI_2_sharp.pdb
+D:\univer\IBIZI\IBIZI_2_sharp\IBIZI_2_sharp\obj\Debug\net5.0\IBIZI_2_sharp.genruntimeconfig.cache
